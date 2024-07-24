@@ -36,3 +36,10 @@ button {
     background: darkgreen;
 }
 
+.container{
+    align-self: center;
+    background-color: white;
+    max-width: 80vh;
+    margin: auto;
+    padding: 3px;
+}
